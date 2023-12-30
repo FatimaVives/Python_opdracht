@@ -60,5 +60,6 @@ Het gegenereerde rapport bevat twee tabellen:
 - **Videos**: Details van de gedownloade video's in mp4-formaat.
 
 Dit rapport biedt een overzicht van de gedownloade media, waaronder bestandsnamen (title), Grootte van het videobestand (size), en Duur van de video (duration).
+
 <img width="521" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/c2e270d9-0cb2-45f1-991a-73950f94a678">
 
