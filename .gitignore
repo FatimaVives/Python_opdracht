@@ -3,3 +3,5 @@ hello.py
 youtube_downloads.db
 downloads_report.xlsx
 ~$*.xlsx
+*.mp3
+*.mp4
