@@ -40,7 +40,8 @@ Als actieve gebruiker van YouTube, merkte ik vaak dat het bekijken van video's m
 
 Voer `python url_downloader.py` uit en volg de instructies op het scherm. Geef een YouTube-URL op en kies het gewenste formaat (mp4 of mp3) om te downloaden.
 
-<img width="430" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/51bb432b-9fd3-41a6-ae11-36bc97a52726">
+<img width="474" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/235b9335-b920-4f84-87a1-2689a859e877">
+
 
 
 
@@ -50,4 +51,14 @@ De applicatie maakt gebruik van een SQLite-database. De database wordt gegeneree
 
 ## Rapport
 
-Om een rapport te genereren van de gedownloade video's en audio, voer `python import_excel.py` uit. Het rapport wordt opgeslagen als 'videos_report.xlsx'.
+Het rapport wordt automatisch gegenereerd en opgeslagen als 'downloads_report.xlsx' in de hoofdmap van het project.
+
+### Inhoud van het Rapport
+
+Het gegenereerde rapport bevat twee tabellen:
+- **Music**: Informatie over de gedownloade audio in mp3-formaat.
+- **Videos**: Details van de gedownloade video's in mp4-formaat.
+
+Dit rapport biedt een overzicht van de gedownloade media, waaronder bestandsnamen (title), Grootte van het videobestand (size), en Duur van de video (duration).
+<img width="521" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/c2e270d9-0cb2-45f1-991a-73950f94a678">
+
