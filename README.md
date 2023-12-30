@@ -39,6 +39,7 @@ Als actieve gebruiker van YouTube, merkte ik vaak dat het bekijken van video's m
 ## Gebruik
 
 Voer `python url_downloader.py` uit en volg de instructies op het scherm. Geef een YouTube-URL op en kies het gewenste formaat (mp4 of mp3) om te downloaden.
+
 <img width="430" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/51bb432b-9fd3-41a6-ae11-36bc97a52726">
 
 
