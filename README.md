@@ -10,6 +10,7 @@ Dit Python-programma stelt gebruikers in staat om video's van YouTube te downloa
 - [Gebruik](#gebruik)
 - [Database](#database)
 - [Rapport](#rapport)
+- [Toekomstige Ontwikkelingen](#Toekomstige-Ontwikkelingen)
 
 ## Doel van het programma
 
@@ -38,7 +39,7 @@ Als actieve gebruiker van YouTube, merkte ik vaak dat het bekijken van video's m
 
 ## Gebruik
 
-Voer `python url_downloader.py` uit en volg de instructies op het scherm. Geef een YouTube-URL op en kies het gewenste formaat (mp4 of mp3) om te downloaden.
+Voer `python convertisseur.py` uit en volg de instructies op het scherm. Geef een YouTube-URL op en kies het gewenste formaat (mp4 of mp3) om te downloaden.
 
 <img width="474" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/235b9335-b920-4f84-87a1-2689a859e877">
 
@@ -62,4 +63,9 @@ Het gegenereerde rapport bevat twee tabellen:
 Dit rapport biedt een overzicht van de gedownloade media, waaronder bestandsnamen (title), Grootte van het videobestand (size), en Duur van de video (duration).
 
 <img width="521" alt="image" src="https://github.com/FatimaVives/Python_opdracht/assets/115084288/c2e270d9-0cb2-45f1-991a-73950f94a678">
+
+## Toekomstige Ontwikkelingen
+
+Het programma staat open voor toekomstige ontwikkelingen en uitbreidingen om de functionaliteit verder te verbeteren. Een van de beoogde doelen is de mogelijkheid toevoegen om tekst te extraheren uit zowel audio- als videobestanden. Hierdoor wordt het eenvoudiger om snel en efficiënt de inhoud van media te kunnen vertalen of analyseren.
+
 
